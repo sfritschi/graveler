@@ -3,6 +3,8 @@ Running simulations of graveler softlock from video originally uploaded by Pikas
 
 This code was written in reference to the following YouTube video: https://www.youtube.com/watch?v=M8C8dHQE2Ro
 
+My solution was adapted from the original source from: https://github.com/arhourigan/graveler/tree/main
+
 # Sample Output
 Number of rolls: 231
 
