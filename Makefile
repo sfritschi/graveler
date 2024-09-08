@@ -1,5 +1,5 @@
 CXX=g++
-CXXFLAGS=-Wall -Wextra -Wpedantic -std=c++17 -O3 -fopenmp
+CXXFLAGS=-Wall -Wextra -Wpedantic -std=c++17 -O3 -fopenmp -march=native
 
 TARGET=graveler
 .PHONY: all, branch, clean

@@ -15,4 +15,4 @@ Using 16 threads.
 
 Highest 1 roll: 100 / 177
 
-Time taken: 118.254 s
+Time taken: 48.8173 s
